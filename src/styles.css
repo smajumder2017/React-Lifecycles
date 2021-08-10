@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+}
+
+.box {
+  padding: 10px;
+  border: 1px dashed black;
+  border-radius: 8px;
+  margin: 5px;
+}
